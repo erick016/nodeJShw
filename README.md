@@ -13,7 +13,7 @@ Node.js, along with the following npm packages, must be installed in the folder:
 Additionally, a database must be set up on the local machine and populated with some items. To do this, use the included .sql file.
 
 [! [CLI]
-(https://raw.githubusercontent.com/erick016/nodeJShw/master/Screen%20Shot%202018-04-16%20at%2011.03.14%20PM.png )]
+( https://i.imgur.com/a0I7lzL.png )]
 
 ### How to use
 
