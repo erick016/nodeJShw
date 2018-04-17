@@ -12,7 +12,7 @@ Node.js, along with the following npm packages, must be installed in the folder:
 
 Additionally, a database must be set up on the local machine and populated with some items. To do this, use the included .sql file.
 
-![alt text]("Screen Shot 2018-04-16 at 11.03.14 PM.png" "Logo Title Text 1")
+![alt text]("cli.png" "Logo Title Text 1")
 
 ### How to use
 
